@@ -9,13 +9,13 @@ profile:
   image: website_picture.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Contact me:</p>
     <p>Chemin Eugène-Rigot 2A</p>
     <p>CH - 1211 Geneva 1, Switzerland</p>
-    <p>Contact me:</p>
     <p>
     <a href='mailto:matteo.ficarra@graduateinstitute.ch'><i class='fas fa-envelope'></i></a>
-    <a href='https://twitter.com/matteoficarra'><i class='fab fa-x-twitter'></i></a>
-    <a href='https://www.linkedin.com/in/matteo-ficarra-7814b3123/'><i class='fab fa-linkedin'></i></a>
+    <a href='https://twitter.com/matteoficarra'><i class='fa-brands fa-x-twitter'></i></a>
+    <a href='https://www.linkedin.com/in/matteo-ficarra-7814b3123/'><i class='fa-brands fa-linkedin'></i></a>
     </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
