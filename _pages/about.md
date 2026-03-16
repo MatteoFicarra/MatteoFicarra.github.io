@@ -5,7 +5,7 @@ permalink: /
 subtitle: <b>Welcome to my webpage!</b>
 
 profile:
-  align: right
+  align: left
   image: website_picture_cropped.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
