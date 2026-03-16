@@ -31,7 +31,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<p style='font-size:1.6rem; font-weight:bold;'>Welcome to my webpage!</p>
+<p style='font-size:1.2rem; font-weight:bold;'>Welcome to my webpage!</p>
 
 I am a PhD Candidate in Economics at the [Geneva Graduate Institute](https://www.graduateinstitute.ch/academic-departments/international-economics) and a Research Fellow at the [Hoffmann Centre for Global Sustainability](https://www.graduateinstitute.ch/hcgs).
 
