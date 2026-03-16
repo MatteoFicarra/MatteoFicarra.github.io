@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in Economics, <a href='https://www.graduateinstitute.ch/academic-departments/international-economics'>Geneva Graduate Institute</a>
+subtitle: **Welcome to my webpage!**
 
 profile:
   align: right
