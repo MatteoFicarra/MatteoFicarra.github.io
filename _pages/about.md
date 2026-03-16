@@ -11,11 +11,11 @@ profile:
    more_info: >
     <p>Chemin Eugène-Rigot 2A</p>
     <p>CH - 1211 Geneva 1, Switzerland</p>
-    <p><br>Contact me:</p>
+    <p>Contact me:</p>
     <p>
-    <a href="mailto:matteo.ficarra@graduateinstitute.ch"><i class="fas fa-envelope"></i></a>
-    <a href="https://twitter.com/matteoficarra"><i class="fab fa-x-twitter"></i></a>
-    <a href="https://www.linkedin.com/in/matteo-ficarra-7814b3123/"><i class="fab fa-linkedin"></i></a>
+    <a href='mailto:matteo.ficarra@graduateinstitute.ch'><i class='fas fa-envelope'></i></a>
+    <a href='https://twitter.com/matteoficarra'><i class='fab fa-x-twitter'></i></a>
+    <a href='https://www.linkedin.com/in/matteo-ficarra-7814b3123/'><i class='fab fa-linkedin'></i></a>
     </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
