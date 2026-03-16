@@ -6,7 +6,7 @@ subtitle: PhD Candidate in Economics, <a href='https://www.graduateinstitute.ch/
 
 profile:
   align: right
-  image: website_picture.jpeg
+  image: website_picture_cropped.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Contact me:</p>
