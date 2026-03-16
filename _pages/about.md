@@ -6,7 +6,7 @@ subtitle: PhD Candidate in Economics, <a href='https://www.graduateinstitute.ch/
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: website_picture.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Chemin Eugène-Rigot 2A</p>
