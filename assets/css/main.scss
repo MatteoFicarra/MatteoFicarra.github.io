@@ -37,3 +37,10 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+/* Custom overrides */
+h1.post-title, .profile h1 {
+  font-size: 1.8rem;
+  color: #0076df;
+  font-weight: bold;
+}
