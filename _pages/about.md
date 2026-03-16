@@ -8,7 +8,7 @@ profile:
   align: right
   image: website_picture.jpeg
   image_circular: false # crops the image to make it circular
-   more_info: >
+  more_info: >
     <p>Chemin Eugène-Rigot 2A</p>
     <p>CH - 1211 Geneva 1, Switzerland</p>
     <p>Contact me:</p>
