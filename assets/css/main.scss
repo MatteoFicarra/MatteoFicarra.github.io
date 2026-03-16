@@ -39,8 +39,11 @@
 @use "font-awesome/regular";
 
 /* Custom overrides */
-h1.post-title, .profile h1 {
-  font-size: 1.8rem;
-  color: #0076df;
-  font-weight: bold;
+.post-title {
+  font-size: 1.6rem !important;
+  font-weight: bold !important;
+}
+
+.post-title span {
+  color: #0076df !important;
 }
