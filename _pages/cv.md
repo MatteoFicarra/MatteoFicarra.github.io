@@ -10,7 +10,7 @@ You can find my CV [here](https://MatteoFicarra.github.io/assets/pdf/Matteo_Fica
 
 ---
 
-##### Education
+<p class='blue-header'>Education</p>
 
 **2021 –** Geneva Graduate Institute, PhD in International Economics
 
@@ -22,7 +22,7 @@ You can find my CV [here](https://MatteoFicarra.github.io/assets/pdf/Matteo_Fica
 
 ---
 
-##### Work Experience
+<p class='blue-header'>Work Experience</p>
 
 **2023 – 2024** Bank of England, PhD Intern
 
@@ -34,7 +34,7 @@ You can find my CV [here](https://MatteoFicarra.github.io/assets/pdf/Matteo_Fica
 
 ---
 
-##### Research Positions
+<p class='blue-header'>Research Positions</p>
 
 **2023 –** Hoffmann Centre for Global Sustainability, Research Affiliate
 
@@ -42,8 +42,7 @@ You can find my CV [here](https://MatteoFicarra.github.io/assets/pdf/Matteo_Fica
 
 ---
 
-##### Grants and Awards
-
+<p class='blue-header'>Grants and Awards</p>
 **2023 – 2026** [SNF Doc.CH Research Grant](https://data.snf.ch/grants/grant/218919)
 
 **2022 – 2023** IHEID Excellence Scholarship
