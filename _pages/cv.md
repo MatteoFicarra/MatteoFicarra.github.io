@@ -8,8 +8,6 @@ nav_order: 3
 
 You can find my CV [here](https://MatteoFicarra.github.io/assets/pdf/Matteo_Ficarra_CV.pdf).
 
----
-
 <span style='color:#0076df'>**Education**</span>
 
 **2021 –** Geneva Graduate Institute, PhD in International Economics
