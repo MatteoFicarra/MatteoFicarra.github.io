@@ -42,7 +42,7 @@ You can find my CV [here](https://MatteoFicarra.github.io/assets/pdf/Matteo_Fica
 
 ---
 
-## <span style='color:#0076df'>**Grants and Awards**</span>
+<span style='color:#0076df'>**Grants and Awards**</span>
 
 **2023 – 2026** [SNF Doc.CH Research Grant](https://data.snf.ch/grants/grant/218919)
 
