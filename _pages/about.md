@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: left
   image: website_picture_cropped.jpeg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Contact me:</p>
     <p>Chemin Eugène-Rigot 2A</p>
