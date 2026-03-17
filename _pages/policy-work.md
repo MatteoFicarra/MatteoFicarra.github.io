@@ -8,11 +8,11 @@ nav_order: 4
 
 ##### Reports and Books
 
-[**Getting the Timing Right - Disasters and Sovereign Debt Issuance**](https://asianbondsonline.adb.org/documents/abm/abm_sep_2025_developments_regional_financial_conditions.pdf), with [Alexander Raabe][https://www.alexanderraabe.com/about-me], in *ADB Asia Bond Monitor*, September 2025
+[**Getting the Timing Right - Disasters and Sovereign Debt Issuance**](https://asianbondsonline.adb.org/documents/abm/abm_sep_2025_developments_regional_financial_conditions.pdf), with [Alexander Raabe](https://www.alexanderraabe.com/about-me), in *ADB Asia Bond Monitor*, September 2025
 
-[**Airbnb e il mercato immobiliare italiano**](https://www.tortuga-econ.it/wp-content/uploads/2023/07/AIRBNB_2023_merged-1.pdf), Tortuga Policy Reports with [Andrea Cerrato][https://sites.google.com/berkeley.edu/acerrato/home], Andrea Chiantello, [Sergio Inferrera][https://sites.google.com/view/sergioinferrera], [Marco Palladino][https://sites.google.com/view/marcoguidopalladino/], Chiara Soriolo and Anna Vicinanza (2023)
+[**Airbnb e il mercato immobiliare italiano**](https://www.tortuga-econ.it/wp-content/uploads/2023/07/AIRBNB_2023_merged-1.pdf), *Tortuga Policy Reports* with [Andrea Cerrato](https://sites.google.com/berkeley.edu/acerrato/home), Andrea Chiantello, [Sergio Inferrera](https://sites.google.com/view/sergioinferrera), [Marco Palladino](https://sites.google.com/view/marcoguidopalladino/), Chiara Soriolo and Anna Vicinanza (2023)
 
-[**La scuola in una stanza: l'impatto della Dad sulle matricole universitarie**](https://www.tortuga-econ.it/wp-content/uploads/2021/09/Tortuga-La-scuola-in-una-stanza-Settembre-2021.pdf), Tortuga Policy Reports with [Enrico Cavallotti][https://enricocavallotti.github.io/], Costanza Hippoliti, Sergio Inferrera][https://sites.google.com/view/sergioinferrera] and Emma Paladino (2021)
+[**La scuola in una stanza: l'impatto della Dad sulle matricole universitarie**](https://www.tortuga-econ.it/wp-content/uploads/2021/09/Tortuga-La-scuola-in-una-stanza-Settembre-2021.pdf), *Tortuga Policy Reports* with [Enrico Cavallotti](https://enricocavallotti.github.io/), Costanza Hippoliti, Sergio Inferrera](https://sites.google.com/view/sergioinferrera) and Emma Paladino (2021)
 
 [**Digitalisation in Europe 2020-2021: Evidence from the EIB Investment Survey**](https://www.eib.org/attachments/efs/digitalisation_in_europe_2020_2021_en.pdf), EIB Policy Report with Désirée Rückert, Antilia Viriginie, and Christoph Weiss (2021)
 
