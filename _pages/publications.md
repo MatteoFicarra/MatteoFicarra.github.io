@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-### **Working Papers**
+#### Working Papers
 
 [**Weathering the Storm: Sectoral Economic and Inflationary Effects of Floods and the Role of Adaptation**](https://MatteoFicarra.github.io/assets/pdf/Matteo_Ficarra_Impact_of_Floods.pdf), [*Bank of England Staff Working Paper No. 1,120*](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2025/weathering-the-storm-sectoral-economic-and-inflationary-effects-of-floods-and-the-role-of-adaptation.pdf) with [Rebecca Mari](https://www.rebeccamari.com/). \[[Bank Underground post](https://bankunderground.co.uk/2024/11/29/weathering-the-storm-the-economic-impact-of-floods-and-the-role-of-adaptation/)\] \[[2025 AEA Interview](https://www.aeaweb.org/conference/videos/2025/rebecca-mari)\] \[[ECB Economic Bulletin](https://www.ecb.europa.eu/press/economic-bulletin/focus/2025/html/ecb.ebbox202501_04~ff5de054b8.en.html)\] \[[VoxEU column](https://cepr.org/voxeu/columns/weathering-storm-role-adaptation-mitigating-economic-impact-floods)\] \[[e-axes Digest](https://e-axes.org/research/weathering-the-storm-sectoral-economic-and-inflationary-effects-of-floods-and-the-role-of-adaptation/)\] *Job Market Paper*
 
@@ -35,7 +35,7 @@ This paper examines trade participation and innovation activities and how they a
 
 ---
 
-### **Selected Work in Progress**
+#### Selected Work in Progress
 
 **Timing the Market: When to Issue Debt After Disasters**, with [Alexander Raabe](https://www.alexanderraabe.com/about-me). \[[ADB Blog](https://blogs.adb.org/blog/getting-timing-right-disasters-debt-and-livelihoods)\] \[[BCC](https://bccprogramme.org/getting-the-timing-right-disasters-debt-and-livelihoods/)\]
 
@@ -50,6 +50,6 @@ How should debt issuance strategies account for disasters? We answer this questi
 
 ---
 
-### **Publications**
+#### Publications
 
 [**Il supporto alla crescita economica degli investimenti verdi: un'analisi empirica per le province italiane**](https://fchub.it/minerva-lab/il-supporto-alla-crescita-economica-degli-investimenti-verdi-unanalisi-empirica-per-le-province-italiane/), *Economia Italiana, 46(2), 2024, 127-171.*
