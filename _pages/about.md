@@ -39,7 +39,7 @@ In my research, I build **novel and granular datasets** and use **time series ec
 
 I have held research positions at IGIER, the European Investment Bank, and the Bank of England.
 
-You can find my CV [here](https://drive.google.com/file/d/1g2wqH-CTSVFZE6tlHdJD2AgyeWUdcFMa/view?usp=sharing).
+You can find my CV [here](https://MatteoFicarra.github.io/assets/pdf/Matteo_Ficarra_CV.pdf).
 
 Research is fun, but I also enjoy cinema, [skiing](https://drive.google.com/drive/folders/1RqD1PQANOhTbf76bpnn-ojEJqOWSpFaJ?usp=sharing), [travelling](https://drive.google.com/drive/folders/1ewLY9o4ZuHSV1enddH28qHM4wknh4mKV?usp=sharing) and AC Milan.
 
