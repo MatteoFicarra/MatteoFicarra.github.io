@@ -35,6 +35,12 @@ latest_posts:
 
 I am a PhD Candidate in Economics at the [Geneva Graduate Institute](https://www.graduateinstitute.ch/academic-departments/international-economics) and a Research Fellow at the [Hoffmann Centre for Global Sustainability](https://www.graduateinstitute.ch/hcgs).
 
-In my research, I build novel and granular datasets and use time series econometrics to answer questions at the intersection between empirical macroeconomics, fiscal policy, and environmental economics. I also work on topics related to geopolitical fragmentation and sovereign debt.
+In my research, I build **novel and granular datasets** and use **time series econometrics** to answer questions at the intersection between **empirical macroeconomics, fiscal policy,** and **environmental economics**. I also work on topics related to geopolitical fragmentation and sovereign debt. You can find my job market paper [here](https://github.com/MatteoFicarra/research/blob/main/Matteo_Ficarra_Impact_of_Floods.pdf).
 
 I have held research positions at IGIER, the European Investment Bank, and the Bank of England.
+
+You can find my CV [here](https://drive.google.com/file/d/1g2wqH-CTSVFZE6tlHdJD2AgyeWUdcFMa/view?usp=sharing).
+
+Research is fun, but I also enjoy cinema, [skiing](https://drive.google.com/drive/folders/1RqD1PQANOhTbf76bpnn-ojEJqOWSpFaJ?usp=sharing), [travelling](https://drive.google.com/drive/folders/1ewLY9o4ZuHSV1enddH28qHM4wknh4mKV?usp=sharing) and AC Milan.
+
+I am on the 2025/26 Job Market!
