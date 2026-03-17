@@ -134,3 +134,9 @@ blockquote {
     }
   }
 }
+
+.post-content h3,
+.post-content h4,
+.post-content h5 {
+  color: var(--global-theme-color);
+}
